@@ -31,7 +31,7 @@ Here are some ideas to get you started:
    src="pablo-970.png">
     </div>
 
-<div style="display:inline-block">
+<div style="display:inline-block;border:2px solid black">
 - 🔭 I’m currently working on **FrontendMasters Website Clone**
 
 <!-- [Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
