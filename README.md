@@ -69,9 +69,9 @@ border="2px solid black">
 ## Connect with me:
 <p align="left">
 
-<span style="margin-left:5px">
+<span margin-left="5px">
 <a href = "https://github.com/Dilipkumarjakhar">
-<img style="font-size:15px;color:blue"
+<img font-size="15px"color="blue"
 src="https://img.icons8.com/ios/50/000000/github--v2.png"/>
 </a>
 </span>
