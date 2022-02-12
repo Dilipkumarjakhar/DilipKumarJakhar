@@ -130,8 +130,9 @@ src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/exter
 src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
 </a>
 </span>
-
 </p>
+<br/>
+<br/>
 
 ## 🚀 Languages and Tools:
 
