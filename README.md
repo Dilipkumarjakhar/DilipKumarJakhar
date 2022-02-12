@@ -38,9 +38,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me **jakhardilip10@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+<span>
+
 <img src="https://img.icons8.com/external-flat-icons-maxicons/85/000000/external-bat-england-flat-flat-icons-maxicons.png"/>
+</span>
+
+<span>
 <img src="https://img.icons8.com/ios/50/000000/basketball--v2.png"/>
+</span>
+
+<span>
 <img src="https://img.icons8.com/ios/50/000000/shuttercock--v2.png"/>
+</span>
 
 ## Connect with me:
 <p align="left">
@@ -53,19 +62,25 @@ Here are some ideas to get you started:
 
 <span>
 <a href = "https://www.linkedin.com/in/dilip-kumar-jakhar-552b44172/">
-<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+<img src="https://img.icons8.com/ios/50/000000/linkedin-2--v2.png"/>
 </a>
 </span>
 
 <span>
 <a href = "https://twitter.com/JakharDilip1">
-<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+<img src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>
 </a>
 </span>
 
 <span>
 <a href = "https://www.instagram.com/whats_ur_sign_101/">
-<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+<img src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png"/>
+</a>
+</span>
+
+<span>
+<a href = "">
+<img src="https://img.icons8.com/ios/50/000000/facebook--v2.png"/>
 </a>
 </span>
 
@@ -89,12 +104,7 @@ Here are some ideas to get you started:
 <a href="https://c.org/" target="_blank">
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </a>
-<a href="https://visual-studio.org/" target="_blank">
-<img src="https://img.icons8.com/nolan/64/visual-studio-2019.png"/>
-</a>
-<a href="https://sublime.org/" target="_blank">
-<img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
-</a>
+
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -117,6 +127,12 @@ Here are some ideas to get you started:
     </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
     </a>
+    <a href="https://visual-studio.org/" target="_blank">
+<img src="https://img.icons8.com/nolan/64/visual-studio-2019.png"/>
+</a>
+<a href="https://sublime.org/" target="_blank">
+<img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
+</a>
 
     
 
@@ -126,17 +142,24 @@ Here are some ideas to get you started:
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
+Most Used Lang
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dilip Kumar Jakhar's streak"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=DilipKumarJakhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilipKumarJakhar&theme=dark&stroke=0000&border=1"/>
     </a>
+    <!-- <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dilip Kumar Jakhar's streak"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=DilipKumarJakhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a> -->
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/DilipKumarJakhar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DilipKumarJakhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/DilipKumarJakhar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DilipKumarJakhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"
+    />
     </a>
 
   <a href="https://github.com/DilipKumarJakhar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api?username=DilipKumarJakhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -160,5 +183,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/DilipKumarJakhar?tab=followers"><img src="https://img.shields.io/github/followers/DilipKumarJakhar?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<a href="https://github.com/DilipKumarJakhar">
+Show some ❤️ by starring some of the repositories!
+</a>
  
