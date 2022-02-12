@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div>
    <div display="inline-block">
-   <img align="left" 
+   <img align="rigth" 
    height="80px"
    src="pablo-970.png">
     </div>
