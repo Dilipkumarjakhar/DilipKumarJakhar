@@ -24,8 +24,14 @@ Here are some ideas to get you started:
 
 
 ## 🙋‍♂️ About Me
-<img src="pablo-970.png">
 
+<div>
+   <div style="display:inline-block">
+   <img style="heigth:80px"
+   src="pablo-970.png">
+    </div>
+
+<div style="display:inline-block">
 - 🔭 I’m currently working on **FrontendMasters Website Clone**
 
 <!-- [Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
@@ -52,6 +58,8 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/ios/50/000000/shuttercock--v2.png"/>
 </span>
 
+ </div>
+</div>
 ## Connect with me:
 <p align="left">
 
