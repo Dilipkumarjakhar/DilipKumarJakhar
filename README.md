@@ -45,17 +45,35 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
+<span>
 <a href = "https://github.com/Dilipkumarjakhar">
 <img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>
 </a>
-<a href = "https://www.linkedin.com/in/dilip-kumar-jakhar-552b44172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</span>
+
+<span>
+<a href = "https://www.linkedin.com/in/dilip-kumar-jakhar-552b44172/">
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
+</span>
 
-<a href = "https://twitter.com/JakharDilip1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<span>
+<a href = "https://twitter.com/JakharDilip1">
+<img src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
+</a>
+</span>
 
-<a href = "https://www.instagram.com/whats_ur_sign_101/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<span>
+<a href = "https://www.instagram.com/whats_ur_sign_101/">
+<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+</span>
 
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<span>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA">
+<img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+</a>
+</span>
 
 </p>
 
