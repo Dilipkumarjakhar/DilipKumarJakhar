@@ -6,65 +6,141 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
  <!-- ------------------------------------------ -->
 
 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dilip Kumar Jakhar</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
- <!-- YOUTUBE:START -->
-- [GitHub Profile README Image Hacks](https://www.youtube.com/watch?v=jHr6Pc8oQjM)
-- [Markdown Tips &amp; Tricks 2022 - Markdown Crash Course](https://www.youtube.com/watch?v=ftOBvusMHjQ)
-- [STACKr News Weekly: FAANG, 2022 Developer Roadmap, In-Demand Tech Roles](https://www.youtube.com/watch?v=Cl1hMoUlXfE)
+## 🙋‍♂️ About Me
 
-- [Top VS Code Updates | v1.64 Released!! | Tips &amp; Tricks 2021 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=0GtjzEI0XmQ)
+- 🔭 I’m currently working on **...**
 
-- [How to Check Ownership of an NFT in your Collection using MetaMask &amp; Netlify Functions!! 😻](https://www.youtube.com/watch?v=g2h-N_E1up0)
+<!-- [Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
-- [STACKr News Weekly: Trade Stocks with JavaScript, Create an NFT Landing Page, Ultimate Pandas Guide!](https://www.youtube.com/watch?v=_fuYgCxbvLw)
-<!-- YOUTUBE:END -->
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-➡️ [more videos...](https://youtube.com/codestackr)
----
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://codestackr.com)
----
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!-- 1. 🗣 Commented on [#74](https://github.com/codeSTACKr/create-10k-nft-collection/issues/74) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🗣 Commented on [#73](https://github.com/codeSTACKr/create-10k-nft-collection/issues/73) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. 🗣 Commented on [#71](https://github.com/codeSTACKr/create-10k-nft-collection/issues/71) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-4. 🗣 Commented on [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-5. ❗️ Closed issue [#69](https://github.com/codeSTACKr/create-10k-nft-collection/issues/69) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection) -->
-<!--END_SECTION:activity-->
-</details>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 All of my projects are available at **[My Portfolio](https:)**
+
+- 📫 How to reach me **jakhardilip10@gmail.com**
+
+- ⚡ Fun fact **I play games and go to the GYM very often.**
+<img src="https://img.icons8.com/external-flat-icons-maxicons/85/000000/external-bat-england-flat-flat-icons-maxicons.png"/>
+<img src="https://img.icons8.com/ios/50/000000/basketball--v2.png"/>
+<img src="https://img.icons8.com/ios/50/000000/shuttercock--v2.png"/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://github.com/Dilipkumarjakhar">
+<img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>
+</a>
+<a href = "https://www.linkedin.com/in/dilip-kumar-jakhar-552b44172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+
+<a href = "https://twitter.com/JakharDilip1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+<a href = "https://www.instagram.com/whats_ur_sign_101/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+
+
+<a href="https://c++.org/" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+</a>
+
+<a href="https://c.org/" target="_blank">
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+</a>
+<a href="https://visual-studio.org/" target="_blank">
+<img src="https://img.icons8.com/nolan/64/visual-studio-2019.png"/>
+</a>
+<a href="https://sublime.org/" target="_blank">
+<img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
+</a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+    </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+ </a> 
+ <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+ </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+  </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+    </a>  
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> 
+</a> 
+    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> 
+    </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    </a>
+
+    
+
+
+</p>
+
+<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+<br/>
+
+<p align="center">
+    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dilip Kumar Jakhar's streak"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=DilipKumarJakhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/DilipKumarJakhar/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=DilipKumarJakhar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+
+  <a href="https://github.com/DilipKumarJakhar/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api?username=DilipKumarJakhar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/DilipKumarJakhar/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DilipKumarJakhar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=DilipKumarJakhar">
+</a>
+<a href="https://github.com/DilipKumarJakhar?tab=followers"><img src="https://img.shields.io/github/followers/DilipKumarJakhar?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+ 
