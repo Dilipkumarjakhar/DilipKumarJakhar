@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 
 ## 🙋‍♂️ About Me
+<a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6"><a href="https://icons8.com/illustrations"></a>
 
 - 🔭 I’m currently working on **FrontendMasters Website Clone**
 
@@ -167,6 +168,12 @@ src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/exte
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
   </a> 
  </span>
+
+
+ <span>
+<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+ </span>
+
 
   <span>
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
