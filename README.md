@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <span style="margin-left:5px">
 <a href = "https://github.com/Dilipkumarjakhar">
-<img style="font-size:15px"
+<img style="font-size:15px;color:blue"
 src="https://img.icons8.com/ios/50/000000/github--v2.png"/>
 </a>
 </span>
@@ -237,7 +237,7 @@ src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/exte
 </a>
 <a href="https://github.com/DilipKumarJakhar?tab=followers"><img src="https://img.shields.io/github/followers/DilipKumarJakhar?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a href="https://github.com/DilipKumarJakhar">
+<a href="https://github.com/Dilipkumarjakhar?tab=repositories">
 Show some ❤️ by starring some of the repositories!
 </a>
  
