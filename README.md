@@ -54,42 +54,42 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<span>
+<span style="margin-left:5px">
 <a href = "https://github.com/Dilipkumarjakhar">
 <img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>
 </a>
 </span>
 
-<span></span>
-<span>
+
+<span style="margin-left:5px">
 <a href = "https://www.linkedin.com/in/dilip-kumar-jakhar-552b44172/">
 <img src="https://img.icons8.com/ios/50/000000/linkedin-2--v2.png"/>
 </a>
 </span>
 
-<span></span>
-<span>
+
+<span style="margin-left:5px">
 <a href = "https://twitter.com/JakharDilip1">
 <img src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>
 </a>
 </span>
-<span></span>
 
-<span>
+
+<span style="margin-left:5px">
 <a href = "https://www.instagram.com/whats_ur_sign_101/">
 <img src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png"/>
 </a>
 </span>
 
-<span></span>
-<span>
+
+<span style="margin-left:5px">
 <a href ="https://www.facebook.com/dilip.jakhar.50/">
 <img src="https://img.icons8.com/ios/50/000000/facebook--v2.png"/>
 </a>
 </span>
 
-<span></span>
-<span>
+
+<span style="margin-left:5px">
 <a href = "https://www.youtube.com/channel/UCtv1RPFOQV3LAM_ntQh3Ekw">
 <img src="https://img.icons8.com/ios/50/000000/youtube-play--v1.png"/>
 </a>
@@ -174,13 +174,6 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/>
 </a>
 </span>
-
-    <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-    </a> -->
-
-    
-
-
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
