@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-<div>
+<div display="inline-block">
+
    <div display="inline-block">
    <img align="rigth" 
    height="80px"
