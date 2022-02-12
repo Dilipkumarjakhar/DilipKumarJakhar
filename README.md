@@ -101,9 +101,10 @@ Here are some ideas to get you started:
 </span>
 
 
-<span style="margin-left:5px;font-size:20px">
+<span style="margin-left:5px;">
 <a href = "https://www.hackerrank.com/jakhardilip10">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
+<img style="font-size:20px"
+src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
 </a>
 </span>
 
