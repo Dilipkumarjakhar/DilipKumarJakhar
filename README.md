@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working on **FrontendMasters Website Clone**
 
 <!-- [Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https:)**
-
+- 💬 Ask me about **JavaScript, React, OpenSource Technologies**
 - 📫 How to reach me **jakhardilip10@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
@@ -54,44 +54,56 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<span style="margin-left:5px">
+<span style="margin-left:5px;font-size:20px">
 <a href = "https://github.com/Dilipkumarjakhar">
 <img src="https://img.icons8.com/ios/50/000000/github--v2.png"/>
 </a>
 </span>
 
 
-<span style="margin-left:5px">
+<span style="margin-left:5px;font-size:20px">
 <a href = "https://www.linkedin.com/in/dilip-kumar-jakhar-552b44172/">
 <img src="https://img.icons8.com/ios/50/000000/linkedin-2--v2.png"/>
 </a>
 </span>
 
 
-<span style="margin-left:5px">
+<span style="margin-left:5px;font-size:20px">
 <a href = "https://twitter.com/JakharDilip1">
 <img src="https://img.icons8.com/ios/50/000000/twitter--v2.png"/>
 </a>
 </span>
 
 
-<span style="margin-left:5px">
+<span style="margin-left:5px;font-size:20px">
 <a href = "https://www.instagram.com/whats_ur_sign_101/">
 <img src="https://img.icons8.com/ios/50/000000/instagram-new--v3.png"/>
 </a>
 </span>
 
 
-<span style="margin-left:5px">
+<span style="margin-left:5px;font-size:20px">
 <a href ="https://www.facebook.com/dilip.jakhar.50/">
 <img src="https://img.icons8.com/ios/50/000000/facebook--v2.png"/>
 </a>
 </span>
 
+<span style="margin-left:5px;font-size:20px">
+<a href ="https://www.facebook.com/dilip.jakhar.50/">
+<img src="https://img.icons8.com/ios/50/000000/facebook--v2.png"/>
+</a>
+</span>
 
-<span style="margin-left:5px">
-<a href = "https://www.youtube.com/channel/UCtv1RPFOQV3LAM_ntQh3Ekw">
-<img src="https://img.icons8.com/ios/50/000000/youtube-play--v1.png"/>
+<span style="margin-left:5px;font-size:20px">
+<a href ="https://leetcode.com/jakhardilip/">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+</a>
+</span>
+
+
+<span style="margin-left:5px;font-size:20px">
+<a href = "https://www.hackerrank.com/jakhardilip10">
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/>
 </a>
 </span>
 
