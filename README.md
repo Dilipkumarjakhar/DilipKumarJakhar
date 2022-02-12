@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 ## 🙋‍♂️ About Me
-<a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6"><a href="https://icons8.com/illustrations"></a>
+<img src="pablo-970.png">
 
 - 🔭 I’m currently working on **FrontendMasters Website Clone**
 
