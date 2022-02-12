@@ -32,7 +32,10 @@ Here are some ideas to get you started:
    src="pablo-970.png">
     </div>
 
-<div display="inline-block",border="2px solid black">
+<div display="inline-block" 
+height="80px" 
+width="300px" 
+border="2px solid black">
 
 - 🔭 I’m currently working on **FrontendMasters Website Clone**
 
