@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <div display="inline-block">
 
-   <div display="inline-block">
+   <!-- <div display="inline-block">
    <img align="rigth" 
    height="80px"
    src="pablo-970.png">
-    </div>
+    </div> -->
 
 <div display="inline-block" 
 height="80px" 
