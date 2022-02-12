@@ -26,12 +26,13 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About Me
 
 <div>
-   <div style="display:inline-block">
-   <img style="heigth:80px"
+   <div display="inline-block">
+   <img heigth="80px"
    src="pablo-970.png">
     </div>
 
-<div style="display:inline-block;border:2px solid black">
+<div display="inline-block",border="2px solid black">
+
 - 🔭 I’m currently working on **FrontendMasters Website Clone**
 
 <!-- [Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
