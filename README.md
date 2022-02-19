@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <h2 align="center">I'm a passionate Full Stack Developer from India.</h2>
 
 
+<h3>An aspiring Full-stack web developer with a specialization in MERN stack. A quick learner who possesses the ability to multi-task.Curious about learning new technologies.Looking forward to working in an environment where I can not sharpen my skillset but also learn and develop new tech skills.</h3>
+
+
 ## 🙋‍♂️ About Me
 
 <div display="inline-block">
